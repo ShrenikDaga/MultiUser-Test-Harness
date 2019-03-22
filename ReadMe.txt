@@ -1,11 +1,4 @@
-General flow of the demo:
-1. There are 2 client windows which have been started and each has its Comm(i.e the Transalator) listening on the port number specified in its commandline arguments. The sendfile path is TestLibraries.
-
-2. I will be automatically sending a testRequest from one of the clients to the TestHarness, which mentiones the dll 'Requirements.dll' to be executed.
-
-3. Thus this will cover both the parts of the demo, automated execution of the client UI window and automated test suite of the requirements.
-
-4. I have added a sleep of about 8 seconds for you to read this file, after that all the execution will begin as mentioned.
-
-5. Please close/minimize this popup window.
+•	Developing an Ebook Reader website as a part of my course. I am using HTML 5, EcmaScript and CSS for the static webpages.
+•	Using ASP.Net MVC for provding a password protected section to the website where users can upload, remove Ebooks in PDF and Mobi formats. 
+•	Will be using ASP.Net Web API for building content mangement Webservice through a C# WPF client application
 Thank you.
