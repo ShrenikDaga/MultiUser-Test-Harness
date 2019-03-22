@@ -1,0 +1,33 @@
+
+  loading from "E:\Syracuse\Fall'2018\CSE-687--OOD\Project\OODProject4\TestDLLs"
+    OODProject3.TestDriver2.dll
+    OODProject3.Requirements.dll
+
+  passed
+  Testing Tester Package
+ ========================
+  Test:   Demo1
+  Author: Fawcett
+  Mon Dec  3 21:16:43 2018
+
+  Testing Demo1 class
+ ---------------------
+  Test:   Demo1
+  Author: Fawcett
+--Test always passes
+  passed
+
+  Testing Demo2 class
+ ---------------------
+  Test:   Demo2
+  Author: Fawcett
+--test always fails
+  failed
+
+  Testing Demo3 class
+ ---------------------
+  Test:   Demo3
+  Author: Fawcett
+--Test always throws
+  failed
+  exception was thrown

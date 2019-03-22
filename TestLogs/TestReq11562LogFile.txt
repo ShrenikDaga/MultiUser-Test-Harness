@@ -1,0 +1,33 @@
+
+  loading from "E:\Syracuse\Fall'2018\CSE-687--OOD\Project\OODProject4\TestDLLs"
+    OODProject3.TestDriver1.dll
+
+
+  Testing CodeUtilities Package
+ ===============================
+  Test:   CodeUtilities single Test DLL
+  Author: Ammar Salman, modified by Jim Fawcett
+  Tue Dec  4 11:56:02 2018
+
+  Testing ProcessCmdLine class
+ ------------------------------
+  Arguments:
+    arg #0:	dummy.exe
+    arg #1:	../
+    arg #2:	/s
+    arg #3:	"*.h"
+    arg #4:	"*.cpp"
+
+  Extracted information:
+    Path:	../
+    Options:	s 
+    Patterns:	"*.h" "*.cpp" 
+
+  Testing Converter class
+ -------------------------
+  Converting from string "10" to integer
+  Converted integer is 10
+  Converting from integer 10 to string
+  Converted string: "10"
+  
+  passed
