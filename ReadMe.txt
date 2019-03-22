@@ -1,4 +1,3 @@
-•	Developing an Ebook Reader website as a part of my course. I am using HTML 5, EcmaScript and CSS for the static webpages.
-•	Using ASP.Net MVC for provding a password protected section to the website where users can upload, remove Ebooks in PDF and Mobi formats. 
-•	Will be using ASP.Net Web API for building content mangement Webservice through a C# WPF client application
-Thank you.
+•	Designed and developed Mutli-User test harness to load a series of defined tests, provide exception safe test execution and support logging of test results to multiple C++ streams at once.
+•	Developed C#, WPF based Client, loading the tests dyanmically and asynchronously, executing them, providing extensibility and modularity to the project. C++/CLI for communication between native C++ and C# code.
+•	Implemented TCP based asynchronus Message Passing Communication between multiple processes like Clients, Test Harness and Testers.
